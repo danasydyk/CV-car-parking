@@ -1,7 +1,12 @@
 # 🅿️ Parking Space Detection
 
 A YOLOv8-based model for detecting free and occupied parking spaces from overhead images and video.
-https://github.com/user-attachments/assets/02566c4f-1faf-43fb-9e62-cde0100cf81d
+
+
+
+https://github.com/user-attachments/assets/a942b0cc-1f36-4aff-8dee-9ba376982444
+
+
 
 ## Demo
 
