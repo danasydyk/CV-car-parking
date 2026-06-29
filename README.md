@@ -77,15 +77,3 @@ This would improve with:
 - ROI masking for fixed-camera deployments
 
 Contributions and dataset suggestions are welcome.
-
-## Project Structure
-
-```
-├── app.py                  # Gradio app (image + video inference)
-├── best.pt                 # Trained model weights
-├── requirements.txt
-├── prepare_and_train.py    # XML → YOLO conversion + training script
-├── explore_parking.py      # Dataset exploration
-└── benchmark_fps.py        # Inference speed benchmark
-```
-
