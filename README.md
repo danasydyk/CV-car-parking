@@ -1,4 +1,4 @@
-# 🅿️ Parking Space Detection
+# Parking Space Detection
 
 A YOLOv8-based model for detecting free and occupied parking spaces from overhead images and video.
 
